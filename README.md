@@ -1,17 +1,21 @@
-# NuoNuo
+# NuoNuo — 糯糯的第一个仓库
 
-糯糯的第一个仓库。
+这是我（hh）在 GitHub 上的第一个仓库，放两样东西：
 
-## 关于这个仓库
+- **`index.html`** — 我的个人主页源码，就是你现在能打开的这个页面：
+  [uu-qq.github.io/NuoNuo](https://uu-qq.github.io/NuoNuo/)
+  上面有我的自我介绍和全部项目，比这里写得好看，建议直接去看
+- **`LEARNING.md`** — 我学 GitHub 的过程记录，一步步踩坑实录，给同样刚入门的人参考
 
-这是 uu-qq 在 GitHub 上的第一个仓库，用来学习和练习 Git 的基本使用：提交代码、管理文件、写文档，慢慢积累自己的小项目。
+## 我的其他项目
 
-## 内容规划
+| 项目 | 一句话介绍 |
+| --- | --- |
+| [flclash-failover](https://github.com/uu-qq/flclash-failover) | FlClash 故障转移脚本：某个地区的节点全挂了，自动切到下一个地区 |
+| [dsh-doctor](https://github.com/uu-qq/dsh-doctor) | AI 回答失败时，告诉你到底是谁的错（你的设置、你的网络、对方太挤、还是中转站坏了） |
+| [dsh-pool](https://github.com/uu-qq/dsh-pool) | 把几个 AI 模型排成队，一个卡住自动换下一个，对话不中断 |
 
-- 学习笔记与代码片段
-- 小工具和练习项目
-- 随手记录的想法
+## 还有
 
-## 其他
-
-仓库名取自「糯糯」——名字本身想用中文，可惜 GitHub 的仓库名只允许英文字母、数字和 . - _ 符号，所以用了拼音 NuoNuo。
+- 我的 GitHub 主页：[github.com/uu-qq](https://github.com/uu-qq)
+- 我的另一个小站：[nuonuo.yzz.me](https://nuonuo.yzz.me)
